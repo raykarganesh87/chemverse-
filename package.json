@@ -1,0 +1,17 @@
+{
+  "name": "chemverse",
+  "version": "1.0.0",
+  "description": "ChemVerse - Composite Chemistry Tool (Basic to Master's). Created by Mr. Ganesh Raykar",
+  "author": "Mr. Ganesh Raykar",
+  "private": true,
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
